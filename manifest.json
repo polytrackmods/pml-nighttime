@@ -1,7 +1,7 @@
 {
-    "name": "Template mod",
-    "id": "templatemod",
-    "author": "Jerry",
+    "name": "Night Time!",
+    "id": "nightmod",
+    "author": "cwcinc",
     "latest": {
         "0.6.0": "0.1.0"
     }
