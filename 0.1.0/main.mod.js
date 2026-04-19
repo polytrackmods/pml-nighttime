@@ -1,6 +1,6 @@
 import { PolyMod } from "https://cdn.polymodloader.com/cb/polytrackmods/PolyModLoader/0.6.0/PolyTypes.js";
 
-class templateMod extends PolyMod {
+class nightMod extends PolyMod {
     preInit = (pml) => {
         // pre init
     }
@@ -16,4 +16,4 @@ class templateMod extends PolyMod {
     } 
 }
 
-export let polyMod = new templateMod();
+export let polyMod = new nightMod();
